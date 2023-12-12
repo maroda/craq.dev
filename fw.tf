@@ -1,3 +1,6 @@
+/*
+ * Google Firewall
+ */
 resource "google_compute_firewall" "access" {
   name    = "${local.vpcname}-default"
   network = google_compute_network.vpc.name
