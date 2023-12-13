@@ -23,9 +23,8 @@ terraform {
 locals {
   project = "rainbowq"
   region  = "us-west2"
-  vpcname = "qio-dev"
-  cluster = "qio-dev-gke-01"
-  context = "dev"
+  vpcname = "rainbownet"
+  cluster = "qio-dev"
   srvacct = "rainbowqio@rainbowq.iam.gserviceaccount.com"
 }
 

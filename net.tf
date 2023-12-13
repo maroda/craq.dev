@@ -4,12 +4,12 @@
 resource "google_compute_subnetwork" "cluster_subnetwork" {
   name          = "${local.vpcname}-${local.cluster}-subnet"
   ip_cidr_range = var.cluster_subnet_cidr
-  network       = data.google_compute_network.vpc.self_link
+  network       = google_compute_network.vpc.self_link
 }
 
 resource "google_compute_router" "nat_router" {
   name    = "${local.vpcname}-${local.cluster}-router"
-  network = data.google_compute_network.vpc.self_link
+  network = google_compute_network.vpc.self_link
   bgp {
     asn = 64514
   }
