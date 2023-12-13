@@ -18,15 +18,18 @@ variable "access_ssh_port" {
 
 variable "num_nat_instances" {
   description = "Number of NAT instances to create, each having their own IP address"
+  type        = number
   default     = 1
 }
 
 variable "master_cidr_block" {
   description = "Private CIDR for the control plane"
+  type        = string
   default     = "172.16.32.0/28"
 }
 
 variable "cluster_subnet_cidr" {
   description = "GKE Subnet"
+  type        = string
   default     = "10.32.0.0/16"
 }

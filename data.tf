@@ -13,10 +13,10 @@ data "google_container_cluster" "this" {
 
 data "google_compute_zones" "available" {}
 
-data "google_compute_network" "vpc" {
-  name = local.vpcname
-}
+//data "google_compute_network" "vpc" {
+//  name = local.vpcname
+//}
 
-data "google_compute_subnetwork" "vpc_default" {
-  name = "${local.vpcname}-subnet"
-}
+//data "google_compute_subnetwork" "vpc_default" {
+//  name = "${local.vpcname}-subnet"
+//}
