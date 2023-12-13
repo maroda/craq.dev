@@ -1,7 +1,3 @@
-//variable "endpoint_toggle" {
-//  description = "Toggle the availability of a public endpoint for the GKE API: 'false' means both public and private, 'true' means only private."
-//  default     = "false"
-//}
 variable "primary_cidr" {
   description = "Primary CIDR for the VPC"
   type        = string
