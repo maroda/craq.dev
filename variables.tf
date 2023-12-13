@@ -1,5 +1,3 @@
-//variable "environment" { description = "Environment (free form, used for naming)" }
-//variable "kubernetes_version" { description = "GKE version" }
 //variable "endpoint_toggle" {
 //  description = "Toggle the availability of a public endpoint for the GKE API: 'false' means both public and private, 'true' means only private."
 //  default     = "false"
@@ -32,4 +30,10 @@ variable "cluster_subnet_cidr" {
   description = "GKE Subnet"
   type        = string
   default     = "10.32.0.0/16"
+}
+
+variable "hostname" {
+  description = "The unique hostname without the domain (i.e. this is not a FQDN)."
+  type        = string
+  default     = "eki"
 }
