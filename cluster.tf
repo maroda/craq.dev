@@ -9,7 +9,6 @@ resource "google_container_cluster" "primary" {
   subnetwork            = google_compute_subnetwork.cluster_subnetwork.name
   enable_shielded_nodes = true
   initial_node_count    = 1
-  // min_master_version    = var.kubernetes_version
 
   # Needed for destroying the cluster for iterative dev
   deletion_protection = false
@@ -19,6 +18,10 @@ resource "google_container_cluster" "primary" {
     cidr_blocks {
       cidr_block   = google_compute_subnetwork.vpc_default.ip_cidr_range
       display_name = "vpc_allowed"
+    }
+    cidr_blocks {
+      cidr_block   = "104.12.83.124/32"
+      display_name = "craquemattic"
     }
   }
 }
