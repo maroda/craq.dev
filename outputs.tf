@@ -14,6 +14,10 @@ output "gke_master_version" {
   value = google_container_cluster.primary.master_version
 }
 
-output "gke_public_endpoint" {
-  value = google_container_cluster.primary.private_cluster_config.*.public_endpoint
+output "dns_primary" {
+  value = google_dns_record_set.primary.name
+}
+
+output "dns_host" {
+  value = google_dns_record_set.host.name
 }

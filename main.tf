@@ -25,6 +25,8 @@ locals {
   region  = "us-west2"
   vpcname = "rainbownet"
   cluster = "qio-dev"
+  dnszone = "craqdev"
+  domain  = "craq.dev"
   srvacct = "rainbowqio@rainbowq.iam.gserviceaccount.com"
 }
 
