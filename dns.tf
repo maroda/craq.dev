@@ -11,13 +11,5 @@ resource "google_dns_record_set" "primary" {
   managed_zone = local.dnszone
   type         = "A"
   ttl          = 300
-  rrdatas      = [google_container_cluster.primary.endpoint]
-}
-
-resource "google_dns_record_set" "www" {
-  name         = "www.${local.domain}."
-  managed_zone = local.dnszone
-  type         = "CNAME"
-  ttl          = 300
-  rrdatas      = [google_dns_record_set.primary.name]
+  rrdatas      = [google_compute_address.web.address]
 }

@@ -4,6 +4,12 @@ resource "google_compute_address" "eki" {
   depends_on   = [google_compute_network.vpc]
 }
 
+resource "google_compute_address" "web" {
+  name         = "${local.vpcname}-web"
+  address_type = "EXTERNAL"
+  depends_on   = [google_compute_network.vpc]
+}
+
 resource "google_compute_instance" "eki" {
   name         = "eki"
   machine_type = "e2-medium"

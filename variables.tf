@@ -1,3 +1,7 @@
+/*
+   Infrastructure
+   */
+
 variable "primary_cidr" {
   description = "Primary CIDR for the VPC"
   type        = string
@@ -16,12 +20,6 @@ variable "num_nat_instances" {
   default     = 1
 }
 
-variable "master_cidr_block" {
-  description = "Private CIDR for the control plane"
-  type        = string
-  default     = "172.16.32.0/28"
-}
-
 variable "cluster_subnet_cidr" {
   description = "GKE Subnet"
   type        = string
@@ -32,4 +30,43 @@ variable "hostname" {
   description = "The unique hostname without the domain (i.e. this is not a FQDN)."
   type        = string
   default     = "eki"
+}
+
+/*
+   Ghost
+   */
+
+variable "gUsername" {
+  type    = string
+  default = "craque"
+}
+
+variable "gPassword" {
+  type    = string
+  default = "cage433four6"
+}
+
+variable "gEmail" {
+  type    = string
+  default = "craque@craque.net"
+}
+
+variable "gBlogTitle" {
+  type    = string
+  default = "CRAQDEV"
+}
+
+variable "gHost" {
+  type    = string
+  default = "ghost.craq.dev"
+}
+
+variable "mRPassword" {
+  type    = string
+  default = "four6cage433"
+}
+
+variable "mPassword" {
+  type    = string
+  default = "four433cage6"
 }
