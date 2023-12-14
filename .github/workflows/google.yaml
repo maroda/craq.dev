@@ -14,19 +14,20 @@ jobs:
     name: "Terraform Run"
     runs-on: ubuntu-latest
     steps:
+      - name: "Checkout"
+        uses: actions/checkout@v4
+
       - id: auth
         uses: google-github-actions/auth@v2
         with:
-          credentials_json: ${{ secrets.GCP_KEY }}
+          project_id: rainbowq
+          credentials_json: ${{ secrets.GCP_SECRET }}
 
       - name: "Setup Cloud SDK"
         uses: google-github-actions/setup-gcloud@v2
 
-      - name: "Checkout"
-        uses: actions/checkout@v4
-
-          #      - name: "Setup NodeJS"
-          #        uses: actions/setup-node@v1
+      - name: "Setup NodeJS"
+        uses: actions/setup-node@v4
 
       - name: "Setup Terraform"
         uses: hashicorp/setup-terraform@v3
