@@ -11,4 +11,4 @@ data "google_container_cluster" "this" {
   depends_on = [google_container_cluster.primary]
 }
 
-data "google_compute_zones" "available" {}
+// data "google_compute_zones" "available" {}
