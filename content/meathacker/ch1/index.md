@@ -123,7 +123,7 @@ Not appreciating Seth's humor at getting thrown out of a moving train, the man i
 
 Thin Man looks down at Seth, switches the wooden match in his mouth from one side to the other in a way that said "do I look like I give a shit."
 
-The car is vacant but for the two of them, dark and unused. Seth recognizes where they are, a stretch next to the river where the tracks run underneath the Sixth Street Viaduct. Close enough than he could reasonably sprint before becoming a target if he acted fast.
+The car is vacant but for the two of them, dark and unused. Seth recognizes where they are, a stretch next to the river where the tracks run underneath the Sixth Street Viaduct. Close enough than he could reasonably sprint before becoming a target if he acted fast...
 
 With a heavy jerk the brakes suddenly engage and the train shudders to a stop.
 
@@ -143,7 +143,7 @@ When the train jolted to a stop and Seth lost his interloper to momentum, the tr
 
 Quickly Seth does an inventory, everything physically seems alright except for the shooting nerve pain across his left side, but that will have to wait. Getting away from Thin Man is critically important, so with all his might Seth pulls his body between the end of the empty car where it couples to the next.
 
-As if queued, the train jerks and slowly eases forward as Seth reaches the corner of the car. Hopping on his right leg he manages to climb up and over the coupling and to the other side. A maglev tie catches his foot and he goes down on his good leg, outstretching his arms to shield his head. The fall isn't hard, he lies there on his back, watching the front of the train point into the sky as it hits the big bend and moves onto the bridge over the river that Seth should have been visiting from three stories high by now.
+As if queued, the train maglev starts humming with a loud snap, the cars jerk and slowly ease forward as Seth reaches the corner of the car. Hopping on his right leg he manages to climb up and over the coupling and to the other side. A railroad tie catches his foot and he goes down on his good leg, outstretching his arms to shield his head. The fall isn't hard, he lies there on his back, watching the front of the train point into the sky as it hits the big bend and moves onto the bridge over the river that Seth should have been visiting from three stories high by now.
 
 Pulling himself between two stacks of old wooden ties, Seth looks around. Thin Man is nowhere to be seen. Exhausted from the battle stress, he slips into unconsciousness.
 
@@ -165,7 +165,7 @@ Seth peeks up. He is somewhere else. It's not the side of a building, and it's d
 
 He takes in a deep breath. Remember to breathe, Seth. His thinking isn't right. Chaining thoughts together as language feels like trying to walk in river mud wearing sandals.
 
-The light seeps into eyes which slowly scan the openings between trees, where there, swooping back and forward, embodied songs flit as birds: between the thick pillar bases of eucalyptus before the sun chances between clouds and around a sheltering leafy bough, up around and sidelong dart these soft-edge tones, making bends of pal hair, exploring rafters of a sky no less a desert morning with the drone of humanity along the sides.
+The light seeps into eyes which slowly scan the openings between trees, where there, swooping back and forward, embodied songs flit as birds: between the thick pillar bases of eucalyptus before the sun chances between clouds and around a sheltering leafy bough, up around and sidelong dart these soft-edge tones, making bends of pale hair, exploring rafters of a sky no less a desert morning with the drone of humanity along the sides.
 
 Reaching steady warmth through space to spaces nourished, desolate, and painted: by this baton the orchestration swells to heights where ruffling the leaves, teases and tickles plodding dew into the fading dawn interlude, just beneath the wing of translucence just enough to flare away for star a circle be.
 
@@ -199,7 +199,7 @@ Two people are with him. A muscular woman crouches next to him on the right, and
 
 "PAISLEY" the woman whisper-shouts at the man, "he's awake, you can stop!"
 
-The man called Paisley sits back and the gleam disappears from his beard, it appears to be nothing more than normal red hair that extends down to the man's belt. The captivating illusion of braids crystalizing is completely gone, and now Seth can't decide if it is when he noticed the braids and crystals that he actually woke up.
+The man called Paisley sits back and the gleam disappears from his beard, it appears to be nothing more than normal red hair that extends down to the man's belt. The captivating illusion of braids crystalizing is completely gone, and now Seth can't decide if he noticed the braids and crystals before he actually woke up.
 
 The woman is dark in the late shadows of the warehouse. Her skin is a swishing pattern of indigos and blues. Seth can barely get the words out, but creaks "What, who are you? Where am I?"
 
