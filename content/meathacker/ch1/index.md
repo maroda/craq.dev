@@ -84,8 +84,6 @@ Elithia's signal grows stronger in his senses. Dims was right, the mark is here.
 
 *White sporto convertible, beneath the menacing tire towers, flipping through high speeds around building-flatbeds of unsteady cargo velocity.*
 
-Possibly someone with quick eyesight and a penchant for reading between the lines would make a perfect navigator on these roads. This business of staying alive among tons of instant steel calls for a comfortable pilot. But most people drive like it's their first day.
-
 *Red two-seater swinging in.*
 
 About the only thing worth viewing from this vantage point is the far away outline of the mountains, barely there or not depending on the weather. Some days never recognizable at all. Colder nights illuminate their majesty in blazes of white fractals, dripping clumsy over scars of geography, biding their time before spring and the wetter months.
@@ -127,7 +125,7 @@ Thin Man looks down at Seth, switches the wooden match in his mouth from one sid
 
 The car is vacant but for the two of them, dark and unused. Seth recognizes where they are, a stretch next to the river where the tracks run underneath the Sixth Street Viaduct. Close enough than he could reasonably sprint before becoming a target if he acted fast.
 
-A banshee screams as the brakes suddenly engage and the train shudders to a stop.
+With a heavy jerk the brakes suddenly engage and the train shudders to a stop.
 
 Thin Man stumbles twice, his shoes squeaking loudly on the hard rubberized floor of the passenger train. He is not ready for the sudden change in energy and topples sideways. To steady himself he takes both hands off the wheelchair and throws his arms out in front of him to catch the railing across the next section of seats.
 
@@ -157,7 +155,7 @@ Above hardening edges of piping and warehouse rooftops the lavender gradient of 
 
 Seth's train defenestration hangover immediately snaps and he makes sure the heavily stylized words are what he thinks he sees. Not thinking, he had stumbled in the right direction, and now across the road it was right there larger than life. He looks both ways, with the building curves blocking the road there is crappy visibility. Probably nobody could see him much at this hour anyway. The trail of blood seemed to have lost interest, he didn't feel a wet sensation on his leg as much as a sticky one.
 
-So he made a dash for it. Exposed, limping quickly across the street to the wall with the graffiti. To his right, closer in to the train-yard, he catches a yellow flash of heavy machinery, hits the side of the warehouse with a grunt and slumps down on his left leg, squatting with his right. Seth mutters out loud... "whatever hit his thigh pinched it good."
+He makes a dash for it. Exposed, limping quickly across the street to the wall with the graffiti. To his right, closer in to the train-yard, he catches a yellow flash of heavy machinery, hits the side of the warehouse with a grunt and slumps down on his left leg, squatting with his right. Seth mutters out loud... "whatever hit his thigh pinched it good."
 
 When he mouths the word pinched, the numbness that had brought him to his knees spreads up to his lower back, and shortly before soothing his back and neck slowly into the side of the factory, Seth feels the need to lie prone or ... between the T and 2 his head falls back and with a slight click, hits the wall and passes out again.
 
