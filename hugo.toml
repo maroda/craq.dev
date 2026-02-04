@@ -1,0 +1,34 @@
+# Root Hugo Configuration
+#
+# For theme-specific settings, see: `config/_default/`
+# Documentation: https://alpha.oxypteros.com/docs/config/hugo-toml
+
+baseURL = "https://craq.io" # Replace with production URL
+title = "craque i/o"
+theme = "alpha"
+timeZone = "America/Los_Angeles"
+googleAnalytics = "G-R03B0ESCH4"
+enableRobotsTXT = true
+
+# Tailwind Integration (Build Options) 
+# Note: Enable the following only if you are using Tailwind CSS with this 
+# project.
+# For setup instructions, see:
+# https://alpha.oxypteros.com/docs/developing-alpha/tailwind
+
+#[build]
+#  [build.buildStats]
+#    enable = true
+#  [[build.cachebusters]]
+#    source = 'assets/notwatching/hugo_stats\.json'
+#    target = 'css'
+#  [[build.cachebusters]]
+#    source = '(postcss|tailwind)\.config\.js'
+#    target = 'css'
+#  [[module.mounts]]
+#    source = 'assets'
+#    target = 'assets'
+#  [[module.mounts]]
+#    disableWatch = true
+#    source = 'hugo_stats.json'
+#    target = 'assets/notwatching/hugo_stats.json'
