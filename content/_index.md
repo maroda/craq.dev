@@ -33,6 +33,8 @@ They are called:<br>
 
 [Sounding](https://www.sounding.com/) is where I write blog articles and sometimes poetry.
 
-{{< /about >}}
+[Craque](https://www.craque.net/) is where I publish music on Bandcamp.
 
-{{< social LIMIT="1" >}}
+[dtuavdiodr](https://www.youtube.com/dtauvdiodr) is where I publish videos of me playing music.
+
+{{< /about >}}

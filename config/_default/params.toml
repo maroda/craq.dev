@@ -8,10 +8,10 @@
 # Displays a text-based logo from the first letter of the site's title.
 pseudologo_enabled = true
 # The year your site was established, shown in the footer.
-established_year = "2024"
+established_year = "2023"
 # A motto or tagline displayed in the footer. Use a backslash (\) to escape
 # quotes.
-motto = "all your base"
+motto = "i have nothing to say and i am saying it"
 
 # Privacy
 # ---------------------

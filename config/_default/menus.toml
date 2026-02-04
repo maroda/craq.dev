@@ -42,7 +42,7 @@
 # Main Social
 [[main_social]]
   name = "Mastodon"
-  url = "http://c.im/@dtauvdiodr"
+  url = "https://c.im/@dtauvdiodr"
   pre = "#mastodon"
   weight = 100
 
@@ -53,15 +53,15 @@
 #  weight = 100
 
 # Footer Social
-#[[footer_social]]
-#  name = "X"
-#  url = "https://x.com/your-username"
-#  pre = "#twitter" # Renders a specific icon. See docs for available icons.
-#  weight = 100
+[[footer_social]]
+  name = "Mastodon"
+  url = "https://c.im/@dtauvdiodr"
+  pre = "#mastodon"
+  weight = 100
 
 # Shortcode Social
 [[sc_social]]
   name = "Mastodon"
-  url = "http://c.im/@dtauvdiodr"
+  url = "https://c.im/@dtauvdiodr"
   pre = "#mastodon"
   weight = 100
